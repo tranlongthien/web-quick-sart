@@ -1,0 +1,2 @@
+# web-quick-sart
+ &lt;script src="https://www.gstatic.com/firebasejs/4.11.0/firebase.js">&lt;/script> &lt;script>   // Initialize Firebase   var config = {     apiKey: "AIzaSyAK5B5oMq-uOan0F4-1H2JejMUn-b0qWFM",     authDomain: "bau-cua-3d-2018-vip.firebaseapp.com",     databaseURL: "https://bau-cua-3d-2018-vip.firebaseio.com",     projectId: "bau-cua-3d-2018-vip",     storageBucket: "bau-cua-3d-2018-vip.appspot.com",     messagingSenderId: "218602222360"   };   firebase.initializeApp(config); &lt;/script>
